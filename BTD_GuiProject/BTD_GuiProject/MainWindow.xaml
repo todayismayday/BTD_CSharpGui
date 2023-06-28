@@ -15,12 +15,12 @@
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="265,84,0,0" TextWrapping="Wrap" Text="Expenses" VerticalAlignment="Top" Width="52" FontWeight="Bold" Foreground="#FF174821"/>
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="455,57,0,0" TextWrapping="Wrap" Text="THB/Day" VerticalAlignment="Top" Width="52" FontWeight="Bold" Foreground="#FF174821"/>
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="455,86,0,0" TextWrapping="Wrap" Text="THB/Day" VerticalAlignment="Top" Width="52" FontWeight="Bold" Foreground="#FF174821"/>
-        <TextBlock HorizontalAlignment="Left" Height="18" Margin="494,114,0,0" TextWrapping="Wrap" Text="THB" VerticalAlignment="Top" Width="26" FontWeight="Bold" Foreground="#FF174821"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="507,114,0,0" TextWrapping="Wrap" Text="THB" VerticalAlignment="Top" Width="26" FontWeight="Bold" Foreground="#FF174821"/>
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="452,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75" FontWeight="Bold" Text="days to get it" Foreground="#FF174821"/>
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="230,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Bold" Text="It will take you" Foreground="#FF174821"/>
         <TextBox HorizontalAlignment="Left" Height="22" Margin="322,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
-        <TextBlock HorizontalAlignment="Left" Height="18" Margin="256,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" FontWeight="Bold" Text="Your wishlist price tag" Foreground="#FF174821"/>
-        <TextBox x:Name="txtWishlist" HorizontalAlignment="Left" Height="22" Margin="362,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="243,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="127" FontWeight="Bold" Text="Your wishlist price tag" Foreground="#FF174821"/>
+        <TextBox x:Name="txtWishlist" HorizontalAlignment="Left" Height="22" Margin="375,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
         <TextBox x:Name="txtExpenses" HorizontalAlignment="Left" Height="22" Margin="322,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
         <TextBox x:Name="txtDays" HorizontalAlignment="Left" Height="22" Margin="319,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
         <Button x:Name="btCal" Content="Calculate" HorizontalAlignment="Left" Height="23" VerticalAlignment="Top" Width="96" Background="#FF60BC65" BorderBrush="#FF000201" Foreground="#FF174821" FontWeight="Bold" BorderThickness="2.5,2.5,2.5,2.5" Margin="335,143,0,0" Click="btCal_Click"/>
